@@ -23,7 +23,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="left" mailto="damien.mercier@epitech.eu" alt="mail" width="30px" src="https://img.icons8.com/color/48/000000/important-mail.png" />
+<img align="left" href="mailto:damien.mercier@epitech.eu" alt="mail" width="30px" src="https://img.icons8.com/color/48/000000/important-mail.png" />
 
 
 </br>
