@@ -23,10 +23,12 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" mailto="damien.mercier@epitech.eu" alt="mail" width="30px" src="https://img.icons8.com/color/48/000000/important-mail.png" />
+
 
 </br>
 
 ### Stats:
-[![Damien's github stats](https://github-readme-stats.vercel.app/api?username=DamienMERCIER&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Damien's github stats](https://github-readme-stats.vercel.app/api?username=DamienMERCIER&show_icons=true&theme=dark)](https://github.com/DamienMERCIER/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/damien-mercier-a71273a7/
