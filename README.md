@@ -34,3 +34,5 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 [![trophy](https://github-profile-trophy.vercel.app/?username=DamienMERCIER)](https://github.com/DamienMERCIER/github-profile-trophy)
 
 [linkedin]: https://www.linkedin.com/in/damien-mercier-a71273a7/
+
+![](https://komarev.com/ghpvc/?username=DamienMERCIER)
