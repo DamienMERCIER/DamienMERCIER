@@ -29,7 +29,6 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 </br>
 
 ### Stats:
-[![Damien's github stats](https://github-readme-stats.vercel.app/api?username=DamienMERCIER&show_icons=true&theme=dark)](https://github.com/DamienMERCIER/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DamienMERCIER)](https://github.com/DamienMERCIER/github-profile-trophy)
 
