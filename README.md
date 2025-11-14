@@ -1,9 +1,3 @@
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-- 🎓 Currently pursuing advanced studies at {EPITECH} Paris
-- 💼 With over 3 years of professional experience, my expertise lies primarily in front-end design, where I thrive in crafting intuitive user experiences. Additionally, I specialize in React to bring dynamic and responsive functionalities to life.
-- 🌟 Actively enhancing my expertise in these technologies to tackle complex challenges
-
 ### Languages and tools:
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,redux,py,threejs,blender,docker,git,figma)](https://skillicons.dev)
